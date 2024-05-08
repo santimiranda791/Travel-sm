@@ -1,27 +1,66 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Travel SM</title>
     <link rel="stylesheet" href="Styles/index.css">
 </head>
-<body>
-</head>
 
 <body>
-    <header>
-        <nav class="navbar">
-            <ul class="ul-navbar">
-                <li><a class="item-nav" target="_blank" href="Templates/Vuelos.html">Vuelos</a></li>
-                <li><a class="item-nav" target="_blank" href="Templates/Alquiler.html">Alquiler de carros</a></li>
-                <li><a class="item-nav" target="_blank" href="Templates/Libreria.html">Librerias</a></li>
-            </ul>
-        </nav>
-        <div class="container-logo">
-            <img class="img-web" src="Assets/Images/undraw_World_re_768g.png" alt="Logotipo">
-        </div>
-        
-    </header>
-</body>
+    </head>
+
+    <body>
+        <header>
+            <div class="btn-head">
+                <h1> ED-TRAVEL </h1>
+                <button>Vuelos</button>
+                <button>Alquiler de carros</button>
+                <button>Librerias</button>
+            </div>
+            <div class="container-logo">
+                <img class="img-web" src="Assets/Images/undraw_World_re_768g.png" alt="Logotipo">
+            </div>
+        </header>
+        <section class="btn-body">
+            <select name="ciudad" id="ciudad">
+                <option value="">Ciudad de Destino</option>
+                <option value="armenia">Armenia</option>
+                <option value="barranquilla">Barranquilla</option>
+                <option value="bogota">Bogota</option>
+                <option value="cartagena">Cartagena</option>
+                <option value="sanandres">San Andrés</option>
+                <option value="santamarta">Santamarta</option>
+                <option value="cali">Cali</option>
+                <option value="bucaramanga">Bucaramanga</option>
+                <option value="guajira">La Guajira</option>
+                <option value="manizales">Manizales</option>
+                <option value="pasto">Pasto</option>
+                <option value="pereira">Pereiea</option>
+                <option value="popayan">Popayan</option>
+            </select>
+            <div class="salida">
+                Dia de Salida <input type="date" name="salida" id="">
+            </div>
+            <div class="regreso">
+                Dia de Regreso <input type="date" name="salida" id="">
+            </div>
+            <select name="cantidaf" id="cantidad">
+                <option value="">Cantidad de Personas</option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+                <option value="10">10</option>
+
+            </select>
+        </section>
+    </body>
+
 </html>
