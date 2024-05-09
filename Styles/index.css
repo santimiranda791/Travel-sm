@@ -12,9 +12,11 @@ header {
     justify-content: space-around;
     align-items: center;
 }
-body{
-background-color: #007db4;
+
+body {
+    background-color: #007db4;
 }
+
 .container-logo {
     justify-content: right;
     width: 5%;
@@ -46,22 +48,26 @@ button {
     border-radius: 15px;
     align-content: center;
 }
-.plane>img{
-width: 1rem;
-height: 1rem;
-align-items:center;
+
+.plane>img {
+    width: 1rem;
+    height: 1rem;
+    align-items: center;
 
 }
-.car>img{
+
+.car>img {
     width: 1rem;
     height: 1rem;
-    align-items:center;
+    align-items: center;
 }
-.book>img{
+
+.book>img {
     width: 1rem;
     height: 1rem;
-    align-items:center;
+    align-items: center;
 }
+
 .btn-body {
     width: 100%;
     height: 5rem;
@@ -102,205 +108,238 @@ select {
     color: black;
     padding: 5px 10px;
 }
-hr{
+
+hr {
     height: 2px;
 }
-.sect-img{
+
+.sect-img {
     display: flex;
     justify-content: space-around;
 }
-.axm>h2{
+
+.axm>h2 {
     background-color: white;
     color: #009ddf;
     border-radius: 10px;
 }
-.axm{
-justify-content: left;
-width: 16%;
-height: 10rem;
-text-align: center;
-border-radius: 10px;
-background-color: white;
+
+.axm {
+    justify-content: left;
+    width: 16%;
+    height: 10rem;
+    text-align: center;
+    border-radius: 10px;
+    background-color: white;
 }
-.axm>img{
+
+.axm>img {
     width: 100%;
     height: 100%;
-margin: auto;
-border-radius: 5px;
+    margin: auto;
+    border-radius: 5px;
 }
-.barran>h2{
+
+.barran>h2 {
     background-color: white;
     color: #009ddf;
     border-radius: 10px;
 }
-.barran{
-justify-content: left;
-width: 16%;
-height: 10rem;
-text-align: center;
-border-radius: 10px;
-background-color: white;
+
+.barran {
+    justify-content: left;
+    width: 16%;
+    height: 10rem;
+    text-align: center;
+    border-radius: 10px;
+    background-color: white;
 }
-.barran>img{
+
+.barran>img {
     width: 100%;
     height: 100%;
-margin: auto;
-border-radius: 5px;
+    margin: auto;
+    border-radius: 5px;
 }
-.bog>h2{
+
+.bog>h2 {
     background-color: white;
     color: #009ddf;
     border-radius: 10px;
 }
-.bog{
-justify-content: left;
-width: 16%;
-height: 10rem;
-text-align: center;
-border-radius: 10px;
-background-color: white;
+
+.bog {
+    justify-content: left;
+    width: 16%;
+    height: 10rem;
+    text-align: center;
+    border-radius: 10px;
+    background-color: white;
 }
-.bog>img{
+
+.bog>img {
     width: 100%;
     height: 100%;
-margin: auto;
-border-radius: 5px;
+    margin: auto;
+    border-radius: 5px;
 }
-.cart>h2{
+
+.cart>h2 {
     background-color: white;
     color: #009ddf;
     border-radius: 10px;
 }
-.cart{
-justify-content: left;
-width: 16%;
-height: 10rem;
-text-align: center;
-border-radius: 10px;
-background-color: white;
+
+.cart {
+    justify-content: left;
+    width: 16%;
+    height: 10rem;
+    text-align: center;
+    border-radius: 10px;
+    background-color: white;
 }
-.cart>img{
+
+.cart>img {
     width: 100%;
     height: 100%;
-margin: auto;
-border-radius: 5px;
+    margin: auto;
+    border-radius: 5px;
 }
-.sanan>h2{
+
+.sanan>h2 {
     background-color: white;
     color: #009ddf;
     border-radius: 10px;
 }
-.sanan{
-justify-content: left;
-width: 16%;
-height: 10rem;
-text-align: center;
-border-radius: 10px;
-background-color: white;
+
+.sanan {
+    justify-content: left;
+    width: 16%;
+    height: 10rem;
+    text-align: center;
+    border-radius: 10px;
+    background-color: white;
 }
-.sanan>img{
+
+.sanan>img {
     width: 100%;
     height: 100%;
-margin: auto;
-border-radius: 5px;
+    margin: auto;
+    border-radius: 5px;
 }
-.sect-img1{
+
+.sect-img1 {
     display: flex;
     justify-content: space-around;
     margin-top: 3rem;
 }
-.marta>h2{
+
+.marta>h2 {
     background-color: white;
     color: #009ddf;
     border-radius: 10px;
 }
-.marta{
-justify-content: left;
-width: 16%;
-height: 10rem;
-text-align: center;
-border-radius: 10px;
-background-color: white;
+
+.marta {
+    justify-content: left;
+    width: 16%;
+    height: 10rem;
+    text-align: center;
+    border-radius: 10px;
+    background-color: white;
 }
-.marta>img{
+
+.marta>img {
     width: 100%;
     height: 100%;
-margin: auto;
-border-radius: 5px;
+    margin: auto;
+    border-radius: 5px;
 }
-.cali>h2{
+
+.cali>h2 {
     background-color: white;
     color: #009ddf;
     border-radius: 10px;
 }
-.cali{
-justify-content: left;
-width: 16%;
-height: 10rem;
-text-align: center;
-border-radius: 10px;
-background-color: white;
+
+.cali {
+    justify-content: left;
+    width: 16%;
+    height: 10rem;
+    text-align: center;
+    border-radius: 10px;
+    background-color: white;
 }
-.cali>img{
+
+.cali>img {
     width: 100%;
     height: 100%;
-margin: auto;
-border-radius: 5px;
+    margin: auto;
+    border-radius: 5px;
 }
-.buca>h2{
+
+.buca>h2 {
     background-color: white;
     color: #009ddf;
     border-radius: 10px;
 }
-.buca{
-justify-content: left;
-width: 16%;
-height: 10rem;
-text-align: center;
-border-radius: 10px;
-background-color: white;
+
+.buca {
+    justify-content: left;
+    width: 16%;
+    height: 10rem;
+    text-align: center;
+    border-radius: 10px;
+    background-color: white;
 }
-.buca>img{
+
+.buca>img {
     width: 100%;
     height: 100%;
-margin: auto;
-border-radius: 5px;
+    margin: auto;
+    border-radius: 5px;
 }
-.guajira>h2{
+
+.guajira>h2 {
     background-color: white;
     color: #009ddf;
     border-radius: 10px;
 }
-.guajira{
-justify-content: left;
-width: 16%;
-height: 10rem;
-text-align: center;
-border-radius: 10px;
-background-color: white;
+
+.guajira {
+    justify-content: left;
+    width: 16%;
+    height: 10rem;
+    text-align: center;
+    border-radius: 10px;
+    background-color: white;
 }
-.guajira>img{
+
+.guajira>img {
     width: 100%;
     height: 100%;
-margin: auto;
-border-radius: 5px;
+    margin: auto;
+    border-radius: 5px;
 }
-.manila>h2{
+
+.manila>h2 {
     background-color: white;
     color: #009ddf;
     border-radius: 10px;
 }
-.manila{
-justify-content: left;
-width: 16%;
-height: 10rem;
-text-align: center;
-border-radius: 10px;
-background-color: white;
+
+.manila {
+    justify-content: left;
+    width: 16%;
+    height: 10rem;
+    text-align: center;
+    border-radius: 10px;
+    background-color: white;
 }
-.manila>img{
+
+.manila>img {
     width: 100%;
     height: 100%;
-margin: auto;
-border-radius: 5px;
+    margin: auto;
+    border-radius: 5px;
 }
