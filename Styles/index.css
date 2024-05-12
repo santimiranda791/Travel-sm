@@ -343,3 +343,106 @@ hr {
     margin: auto;
     border-radius: 5px;
 }
+
+.sect-img2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+}
+
+.sect-img2 div {
+    margin: 0 28px;
+}
+
+
+.pasto>h2 {
+    background-color: white;
+    color: #009ddf;
+    border-radius: 10px;
+}
+
+.pasto {
+    justify-content: left;
+    width: 16%;
+    height: 10rem;
+    text-align: center;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.pasto>img {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    border-radius: 5px;
+}
+
+.pere>h2 {
+    background-color: white;
+    color: #009ddf;
+    border-radius: 10px;
+}
+
+.pere {
+    justify-content: left;
+    width: 16%;
+    height: 10rem;
+    text-align: center;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.pere>img {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    border-radius: 5px;
+}
+
+.popayan>h2 {
+    background-color: white;
+    color: #009ddf;
+    border-radius: 10px;
+}
+
+.popayan {
+    justify-content: left;
+    width: 16%;
+    height: 10rem;
+    text-align: center;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.popayan>img {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    border-radius: 5px;
+}
+
+
+footer {
+    width: 100%;
+    height: 4rem;
+    background-color: #006995;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3rem;
+}
+footer .social-icon{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px 0;
+}
+footer .social-icon li{
+    list-style: none;
+}
+
+footer .social-icon li a {
+    color: #fff;
+    margin: 0 10px;
+}
