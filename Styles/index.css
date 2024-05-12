@@ -72,17 +72,21 @@ button {
     width: 100%;
     height: 5rem;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
     background-color: #007db4;
 }
-
+.btn-body div,
+.btn-body input{
+    margin: 0 10px;
+}
 select {
     border: 2px solid;
     border-radius: 10px;
     background-color: #009ddf;
     color: black;
     padding: 5px 10px;
+    margin: 0 5px;
 }
 
 .salida {
