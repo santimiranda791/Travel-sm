@@ -76,10 +76,12 @@ button {
     align-items: center;
     background-color: #007db4;
 }
+
 .btn-body div,
-.btn-body input{
+.btn-body input {
     margin: 0 10px;
 }
+
 select {
     border: 2px solid;
     border-radius: 10px;
@@ -438,14 +440,16 @@ footer {
     align-items: center;
     margin-top: 3rem;
 }
-footer .social-icon{
+
+footer .social-icon {
     position: relative;
     display: flex;
     justify-content: center;
     align-items: center;
     margin-top: 10px 0;
 }
-footer .social-icon li{
+
+footer .social-icon li {
     list-style: none;
 }
 
