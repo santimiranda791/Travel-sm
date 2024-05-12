@@ -87,6 +87,7 @@ select {
     color: black;
     padding: 5px 10px;
     margin: 0 5px;
+    cursor: pointer;
 }
 
 .salida {
@@ -99,6 +100,7 @@ select {
     background-color: #009ddf;
     color: black;
     padding: 5px 10px;
+    cursor: pointer;
 }
 
 .regreso {
@@ -111,6 +113,7 @@ select {
     background-color: #009ddf;
     color: black;
     padding: 5px 10px;
+    cursor: pointer;
 }
 
 hr {
